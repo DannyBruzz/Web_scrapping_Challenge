@@ -1,5 +1,5 @@
-# web_scrapping_challenge
-Module 12 Challenge
+# Web_scrapping_Challenge
+Use of Splinter and HTML parsing with Beautiful Soup to undertake full web-scraping and data analysis.
 
 
 Q1:How many months exist on Mars?
